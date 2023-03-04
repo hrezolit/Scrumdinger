@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D593F15F29B353E300FDC9DB /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D593F15E29B353E300FDC9DB /* DetailEditView.swift */; };
 		D59ADAE329B197A600DC9827 /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59ADAE229B197A600DC9827 /* ScrumdingerApp.swift */; };
 		D59ADAE529B197A600DC9827 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59ADAE429B197A600DC9827 /* MeetingView.swift */; };
 		D59ADAE729B197A900DC9827 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D59ADAE629B197A900DC9827 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D593F15E29B353E300FDC9DB /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		D59ADADF29B197A600DC9827 /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D59ADAE229B197A600DC9827 /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		D59ADAE429B197A600DC9827 /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -101,10 +103,11 @@
 		D59ADAF529B1A57800DC9827 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				D59ADAE429B197A600DC9827 /* MeetingView.swift */,
-				D59ADAF629B1A59900DC9827 /* CardView.swift */,
 				D59ADAFA29B1AEC100DC9827 /* ScrumsView.swift */,
+				D59ADAF629B1A59900DC9827 /* CardView.swift */,
+				D59ADAE429B197A600DC9827 /* MeetingView.swift */,
 				D59ADAFC29B1CB2F00DC9827 /* DetailView.swift */,
+				D593F15E29B353E300FDC9DB /* DetailEditView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 			files = (
 				D59ADAF429B1A35F00DC9827 /* DailyScrum.swift in Sources */,
 				D59ADAFD29B1CB2F00DC9827 /* DetailView.swift in Sources */,
+				D593F15F29B353E300FDC9DB /* DetailEditView.swift in Sources */,
 				D59ADAF929B1AB0400DC9827 /* TrailingIconLabelStyle.swift in Sources */,
 				D59ADAF229B19F0600DC9827 /* Theme.swift in Sources */,
 				D59ADAFB29B1AEC100DC9827 /* ScrumsView.swift in Sources */,
