@@ -44,6 +44,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D593F15D29B34EB700FDC9DB /* Source files */ = {
+			isa = PBXGroup;
+			children = (
+				D59ADAE229B197A600DC9827 /* ScrumdingerApp.swift */,
+				D59ADAE629B197A900DC9827 /* Assets.xcassets */,
+			);
+			path = "Source files";
+			sourceTree = "<group>";
+		};
 		D59ADAD629B197A600DC9827 = {
 			isa = PBXGroup;
 			children = (
@@ -65,8 +74,7 @@
 			children = (
 				D59ADAF029B19EEE00DC9827 /* Models */,
 				D59ADAF529B1A57800DC9827 /* Views */,
-				D59ADAE229B197A600DC9827 /* ScrumdingerApp.swift */,
-				D59ADAE629B197A900DC9827 /* Assets.xcassets */,
+				D593F15D29B34EB700FDC9DB /* Source files */,
 				D59ADAE829B197A900DC9827 /* Preview Content */,
 			);
 			path = Scrumdinger;
