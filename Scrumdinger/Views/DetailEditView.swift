@@ -20,11 +20,12 @@ struct DetailEditView: View {
                     Slider(value: $data.lengthInMinute, in: 5...30, step: 1) {
                         Text("Length")
                     }
+                    .accessibilityValue("\(Int(data.lengthInMinute)) minutes")
                     Spacer()
                     Text("\(Int(data.lengthInMinute)) minutes")
                         .accessibilityHidden(true)
                 }
-                .accessibilityValue("\(Int(data.lengthInMinute)) minutes")
+                ThemePicker(selection: $data.theme)
             }
             Section(header: Text("Attendees")) {
                 ForEach(data.attendees) { attendee in
