@@ -23,6 +23,7 @@
 		D5A89B3529B6E1BE00FEBC47 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A89B3429B6E1BE00FEBC47 /* MeetingHeaderView.swift */; };
 		D5A89B3729B6E56B00FEBC47 /* ScrumProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A89B3629B6E56B00FEBC47 /* ScrumProgressViewStyle.swift */; };
 		D5A89B3929B6E8C200FEBC47 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A89B3829B6E8C200FEBC47 /* ScrumTimer.swift */; };
+		D5A89B3B29B6EB4300FEBC47 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A89B3A29B6EB4300FEBC47 /* MeetingFooterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		D5A89B3429B6E1BE00FEBC47 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
 		D5A89B3629B6E56B00FEBC47 /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
 		D5A89B3829B6E8C200FEBC47 /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
+		D5A89B3A29B6EB4300FEBC47 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				D59ADAFA29B1AEC100DC9827 /* ScrumsView.swift */,
 				D59ADAF629B1A59900DC9827 /* CardView.swift */,
 				D59ADAE429B197A600DC9827 /* MeetingView.swift */,
+				D5A89B3A29B6EB4300FEBC47 /* MeetingFooterView.swift */,
 				D5A89B3429B6E1BE00FEBC47 /* MeetingHeaderView.swift */,
 				D5A89B3629B6E56B00FEBC47 /* ScrumProgressViewStyle.swift */,
 				D59ADAFC29B1CB2F00DC9827 /* DetailView.swift */,
@@ -199,6 +202,7 @@
 			files = (
 				D593F16329B4C39800FDC9DB /* ThemePicker.swift in Sources */,
 				D5A89B3729B6E56B00FEBC47 /* ScrumProgressViewStyle.swift in Sources */,
+				D5A89B3B29B6EB4300FEBC47 /* MeetingFooterView.swift in Sources */,
 				D5A89B3929B6E8C200FEBC47 /* ScrumTimer.swift in Sources */,
 				D59ADAF429B1A35F00DC9827 /* DailyScrum.swift in Sources */,
 				D59ADAFD29B1CB2F00DC9827 /* DetailView.swift in Sources */,
