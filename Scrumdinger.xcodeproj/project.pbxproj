@@ -22,6 +22,7 @@
 		D59ADAFD29B1CB2F00DC9827 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59ADAFC29B1CB2F00DC9827 /* DetailView.swift */; };
 		D5A89B3529B6E1BE00FEBC47 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A89B3429B6E1BE00FEBC47 /* MeetingHeaderView.swift */; };
 		D5A89B3729B6E56B00FEBC47 /* ScrumProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A89B3629B6E56B00FEBC47 /* ScrumProgressViewStyle.swift */; };
+		D5A89B3929B6E8C200FEBC47 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A89B3829B6E8C200FEBC47 /* ScrumTimer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		D59ADAFC29B1CB2F00DC9827 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		D5A89B3429B6E1BE00FEBC47 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
 		D5A89B3629B6E56B00FEBC47 /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
+		D5A89B3829B6E8C200FEBC47 /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			children = (
 				D59ADAF129B19F0600DC9827 /* Theme.swift */,
 				D59ADAF329B1A35F00DC9827 /* DailyScrum.swift */,
+				D5A89B3829B6E8C200FEBC47 /* ScrumTimer.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 			files = (
 				D593F16329B4C39800FDC9DB /* ThemePicker.swift in Sources */,
 				D5A89B3729B6E56B00FEBC47 /* ScrumProgressViewStyle.swift in Sources */,
+				D5A89B3929B6E8C200FEBC47 /* ScrumTimer.swift in Sources */,
 				D59ADAF429B1A35F00DC9827 /* DailyScrum.swift in Sources */,
 				D59ADAFD29B1CB2F00DC9827 /* DetailView.swift in Sources */,
 				D5A89B3529B6E1BE00FEBC47 /* MeetingHeaderView.swift in Sources */,
