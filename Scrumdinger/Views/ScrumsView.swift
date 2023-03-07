@@ -28,6 +28,7 @@ struct ScrumsView: View {
             .accessibilityLabel("New Scrum")
         }
     }
+    
     struct ScrumsView_Previews: PreviewProvider {
         static var previews: some View {
             NavigationView {
