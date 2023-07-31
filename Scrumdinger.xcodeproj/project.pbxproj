@@ -27,6 +27,7 @@
 		D5753DB52A776E42006D4091 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5753DB42A776E42006D4091 /* MeetingHeaderView.swift */; };
 		D5753DB72A7776CF006D4091 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5753DB62A7776CF006D4091 /* MeetingFooterView.swift */; };
 		D5753DB92A77A089006D4091 /* NewScrumSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5753DB82A77A089006D4091 /* NewScrumSheet.swift */; };
+		D5753DBB2A77D41C006D4091 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5753DBA2A77D41C006D4091 /* History.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		D5753DB42A776E42006D4091 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
 		D5753DB62A7776CF006D4091 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		D5753DB82A77A089006D4091 /* NewScrumSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewScrumSheet.swift; sourceTree = "<group>"; };
+		D5753DBA2A77D41C006D4091 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 			isa = PBXGroup;
 			children = (
 				D5753DAB2A7768DD006D4091 /* AVPlayer+Ding.swift */,
+				D5753DBA2A77D41C006D4091 /* History.swift */,
 				D5223B462A75109100BF82E0 /* Theme.swift */,
 				D5753DB02A776B49006D4091 /* ScrumTimer.swift */,
 				D5223B482A75123200BF82E0 /* DailyScrum.swift */,
@@ -218,6 +221,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5753DBB2A77D41C006D4091 /* History.swift in Sources */,
 				D5223B592A7679E600BF82E0 /* ThemePicker.swift in Sources */,
 				D5223B492A75123200BF82E0 /* DailyScrum.swift in Sources */,
 				D5753DB32A776B9B006D4091 /* ScrumProgressViewStyle.swift in Sources */,
