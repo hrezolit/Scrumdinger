@@ -24,6 +24,7 @@
 		D5753DAF2A776AF1006D4091 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = D5753DAE2A776AF1006D4091 /* ding.wav */; };
 		D5753DB12A776B49006D4091 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5753DB02A776B49006D4091 /* ScrumTimer.swift */; };
 		D5753DB32A776B9B006D4091 /* ScrumProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5753DB22A776B9B006D4091 /* ScrumProgressViewStyle.swift */; };
+		D5753DB52A776E42006D4091 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5753DB42A776E42006D4091 /* MeetingHeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		D5753DAE2A776AF1006D4091 /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
 		D5753DB02A776B49006D4091 /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		D5753DB22A776B9B006D4091 /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
+		D5753DB42A776E42006D4091 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 			children = (
 				D5223B4E2A752C4E00BF82E0 /* ScrumsView.swift */,
 				D5223B392A74F88800BF82E0 /* MeetingView.swift */,
+				D5753DB42A776E42006D4091 /* MeetingHeaderView.swift */,
 				D5223B502A761FA200BF82E0 /* DetailView.swift */,
 				D5223B522A764BB400BF82E0 /* DetailEditView.swift */,
 				D5223B562A7677D000BF82E0 /* ThemeView.swift */,
@@ -218,6 +221,7 @@
 				D5223B472A75109100BF82E0 /* Theme.swift in Sources */,
 				D5223B4F2A752C4E00BF82E0 /* ScrumsView.swift in Sources */,
 				D5753DAC2A7768DD006D4091 /* AVPlayer+Ding.swift in Sources */,
+				D5753DB52A776E42006D4091 /* MeetingHeaderView.swift in Sources */,
 				D5223B3A2A74F88800BF82E0 /* MeetingView.swift in Sources */,
 				D5223B382A74F88800BF82E0 /* ScrumdingerApp.swift in Sources */,
 				D5223B572A7677D000BF82E0 /* ThemeView.swift in Sources */,
