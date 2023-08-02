@@ -30,6 +30,7 @@
 		D5753DBB2A77D41C006D4091 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5753DBA2A77D41C006D4091 /* History.swift */; };
 		D5A6A11B2A791391006FC002 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A6A11A2A791391006FC002 /* ScrumStore.swift */; };
 		D5A6A11D2A7A5098006FC002 /* ErrorWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A6A11C2A7A5098006FC002 /* ErrorWrapper.swift */; };
+		D5A6A11F2A7A517C006FC002 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A6A11E2A7A517C006FC002 /* ErrorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		D5753DBA2A77D41C006D4091 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 		D5A6A11A2A791391006FC002 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 		D5A6A11C2A7A5098006FC002 /* ErrorWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorWrapper.swift; sourceTree = "<group>"; };
+		D5A6A11E2A7A517C006FC002 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 				D5223B562A7677D000BF82E0 /* ThemeView.swift */,
 				D5223B582A7679E600BF82E0 /* ThemePicker.swift */,
 				D5223B4A2A75135200BF82E0 /* CardView.swift */,
+				D5A6A11E2A7A517C006FC002 /* ErrorView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 				D5223B592A7679E600BF82E0 /* ThemePicker.swift in Sources */,
 				D5223B492A75123200BF82E0 /* DailyScrum.swift in Sources */,
 				D5753DB32A776B9B006D4091 /* ScrumProgressViewStyle.swift in Sources */,
+				D5A6A11F2A7A517C006FC002 /* ErrorView.swift in Sources */,
 				D5223B512A761FA200BF82E0 /* DetailView.swift in Sources */,
 				D5223B532A764BB400BF82E0 /* DetailEditView.swift in Sources */,
 				D5A6A11B2A791391006FC002 /* ScrumStore.swift in Sources */,
