@@ -22,9 +22,9 @@ struct MeetingView: View {
                 MeetingHeaderView(secondsElapsed: scrumTimer.secondsElapsed,
                                   secondsRemaining: scrumTimer.secondsRemaining,
                                   theme: scrum.theme)
-                Circle()
-                    .strokeBorder(lineWidth: 24)
-                MeetingFooterView(speakers: scrumTimer.speakers, skipAction: scrumTimer.skipSpeaker)
+                MeetingTimerView(speakers: scrumTimer.speakers, theme: scrum.theme)
+                MeetingFooterView(speakers: scrumTimer.speakers,
+                                  skipAction: scrumTimer.skipSpeaker)
             }
         }
         .padding()
@@ -39,7 +39,8 @@ struct MeetingView: View {
     }
     
     private func startScrum() {
-        scrumTimer.reset(lengthInMinutes: scrum.lengthInMinutes, attendees: scrum.attendees)
+        scrumTimer.reset(lengthInMinutes: scrum.lengthInMinutes,
+                         attendees: scrum.attendees)
         scrumTimer.speakerChangedAction = {
             player.seek(to: .zero)
             player.play()
