@@ -1,6 +1,6 @@
 [![Swift Version][swift-image]][swift-url]
 ![Platform][platform-image]
-[![Framework][framework-image]][framework-url]
+[![Framework][framework][framework-image]][framework-url]
 # SvrumdingerApp
 <br />
 <p align="left">
@@ -50,4 +50,5 @@ import SwiftUI
 [swift-url]: https://swift.org/
 [platform-image]: https://camo.githubusercontent.com/5a12a2bc88c183973f0863b8f5a539edb0e0a9758c8e6dad825ca56b4a959da6/68747470733a2f2f696d672e736869656c64732e696f2f636f636f61706f64732f702f4c46416c657274436f6e74726f6c6c65722e7376673f7374796c653d666c6174
 [framework-image]: https://img.shields.io/badge/SwiftUI-blue.svg
+[framework]: https://img.shields.io/badge/framework-grey.svg
 [framework-url]: https://developer.apple.com/documentation/swiftui/
