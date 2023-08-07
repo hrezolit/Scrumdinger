@@ -1,5 +1,5 @@
 [![Swift Version][swift-image]][swift-url]
-![Platform][platform-image]
+![Platm][platform-image]
 ![Framework][framework-image]
 # SvrumdingerApp
 <br />
