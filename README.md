@@ -31,7 +31,7 @@ what they are working on today, and any obstacles that might impact their work.
 4. Run the project.
 
 ## Architecture
-* Svrumdinger project is implemented using the Model-View-Controller(MVC) architecture pattern.
+* Scrumdinger project is implemented using the Model-View-Controller(MVC) architecture pattern.
  
 ## Requirements
 Project is created with:
