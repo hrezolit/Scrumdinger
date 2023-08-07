@@ -1,7 +1,7 @@
 [![Swift Version][swift-image]][swift-url]
 ![Platform][platform-image]
 [![Framework][framework-image]][framework-url]
-# SvrumdingerApp
+# ScrumdingerApp
 <br />
 <p align="left">
   <a href="https://github.com/hrezolit/Scrumdinger/tree/main/Scrumdinger">
@@ -10,7 +10,7 @@
 
   </p>
 </p>
-Svrumdinger is app for controll speakers time on meetings
+Scrumdinger is app for controll speakers time on meetings
 
 ## Table of contents
 * [Description](#description)
@@ -26,7 +26,7 @@ what they are working on today, and any obstacles that might impact their work.
 
 ## Getting started
 1. Make sure you have the Xcode version 14.3 or above installed on your computer.
-2. Download the "Svrumdinger" project files from the repository.
+2. Download the "Scrumdinger" project files from the repository.
 3. Open the project files in Xcode.
 4. Run the project.
 
