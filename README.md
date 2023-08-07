@@ -43,7 +43,7 @@ Project is created with:
 To run this project, install it locally using TestFlight
 
 ## Preview:
-<img src="https://github.com/hrezolit/Scrumdinger/assets/62234354/3e180f88-059d-4a85-a243-e6bf740de0ba" alt="Logo" width="200" height="200">
+<img src="https://github.com/hrezolit/Scrumdinger/assets/62234354/3e180f88-059d-4a85-a243-e6bf740de0ba" alt="Logo" width="200" height="500">
 ![FirstPart](https://github.com/hrezolit/Scrumdinger/assets/62234354/3e180f88-059d-4a85-a243-e6bf740de0ba)
 ![SecondPart](https://github.com/hrezolit/Scrumdinger/assets/62234354/8ea6a0d3-4248-4e33-85e9-d138144cef9e)
 ![ThirdPart](https://github.com/hrezolit/Scrumdinger/assets/62234354/491eb9e5-748b-4ffb-b355-53ec9cdff5c6)
