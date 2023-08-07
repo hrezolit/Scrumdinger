@@ -35,7 +35,6 @@ what they are working on today, and any obstacles that might impact their work.
 * Scrumdinger project is implemented using the Model-View-Controller(MVC) architecture pattern.
  
 ## Requirements:
-Project is created with:
 * Xcode Version 14.3.1
 * iOS 16.4
 	
