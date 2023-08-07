@@ -10,36 +10,39 @@
 
   </p>
 </p>
-Scrumdinger is app for controll speakers time on meetings
+Scrumdinger is app for controll speaker's time on meetings
 
-## Table of contents
+## Table of contents:
 * [Description](#description)
 * [Getting started](#getting-started)
 * [Architecture](#architecture)
 * [Requirements](#requirements)
 * [Setup](#setup)
+* [Preview](#preview)
 
-## Description
+## Description:
 Daily meetings, known as scrums, to plan their work for the day. 
 Scrums are short meetings where each attendee discusses what they accomplished yesterday, 
 what they are working on today, and any obstacles that might impact their work.
 
-## Getting started
+## Getting started:
 1. Make sure you have the Xcode version 14.3 or above installed on your computer.
 2. Download the "Scrumdinger" project files from the repository.
 3. Open the project files in Xcode.
 4. Run the project.
 
-## Architecture
+## Architecture:
 * Scrumdinger project is implemented using the Model-View-Controller(MVC) architecture pattern.
  
-## Requirements
+## Requirements:
 Project is created with:
 * Xcode Version 14.3.1
 * iOS 16.4
 	
-## Setup
-To run this project, install it locally using TestFlight:
+## Setup:
+To run this project, install it locally using TestFlight
+
+## Preview:
 
 ```swift
 import SwiftUI
